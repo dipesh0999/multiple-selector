@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+h1, p{
+    color: brown;
+}
+h2 {
+    text-align: center;
+}                                                                                   
+h3, h4{
+    color:crimson
+}
+h4, li{
+    background-color: aqua;
+}
+section, a{
+    color: rgb(255, 0, 0);
+}
